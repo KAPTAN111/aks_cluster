@@ -5,7 +5,7 @@ rg_devA = {
 } 
 "rg_dev_shiv" = {
     rg_name  = "rg_dev_aks2"
-    location = "eastus"
+    location = "centralindia"
 }}
 #value assign kar rahe hai
 # key=value
